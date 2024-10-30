@@ -16,6 +16,9 @@ public class Runner {
 
         //techpro
         System.out.println("techpro3");
+
+        //techpro
+        System.out.println("-------------------------");
     }
 
 }
