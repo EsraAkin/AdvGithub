@@ -19,6 +19,12 @@ public class Runner {
 
         //techpro
         System.out.println("-------------------------");
+ 
+    
+    
+    
+    //remote repoda değişiklik
+    
     }
 
 }
