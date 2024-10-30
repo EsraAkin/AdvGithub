@@ -21,10 +21,14 @@ public class Runner {
         System.out.println("-------------------------");
 
 
-
-
    //localde değişiklik
         //localde değişiklik
+
+
+    //remote repoda değişiklik
+        //
+    
+
     }
 
 }
