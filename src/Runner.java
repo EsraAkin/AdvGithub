@@ -26,8 +26,10 @@ public class Runner {
 
 
     //remote repoda değişiklik
-        //
-    
+       //  techproda değişiklik yaptım. Ben dev 1im
+       //  techproda değişiklik yaptım.
+       //  techproda değişiklik yaptım.
+
 
     }
 
