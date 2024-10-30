@@ -10,6 +10,11 @@ public class Runner {
 
         //techpro
         System.out.println("techpro1");
+
+        //techpro
+        System.out.println("techpro2");
+
+
     }
 
 }
